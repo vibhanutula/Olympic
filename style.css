@@ -1,0 +1,14 @@
+.body-background{
+    background-image: url("Chistmas.png");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+   color: rgb(6, 66, 6);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Olympic{
+    background-color: rgb(188, 255, 224);
+    border: 3px rgb(1, 75, 13) dotted;
+    border-radius: 15px;
+}
